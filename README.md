@@ -1,4 +1,4 @@
-# GDSC-telegram-bot
+# [GDSC-telegram-bot](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2022/blob/main/RECRUITMENT_TASKS_2022.md#task-id-country-bot)
 
 ## Method to run the bot
 - firstly add bot to your telegram using this link [country's bot link](http://t.me/geccountry_bot)
